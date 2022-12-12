@@ -1,12 +1,13 @@
-"""Implementation of Lindner (2012) in Python with NumPy and Pandas.
+"""Implementation of Lindner et al. (2012) in Python with NumPy and Pandas.
 
 Lindner, Sören, Julien Legault, and Dabo Guan. 2012.
 ‘Disaggregating Input–Output Models with Incomplete Information’.
 Economic Systems Research 24 (4): 329–47.
 https://doi.org/10.1080/09535314.2012.689954.
 
-The comments in this script contain the Matlab code given in the supplementary
-material 'cesr_a_689954_sup_27358897.docx' of Lindner (2012).
+The comments in this script are the same as the ones in the Matlab code
+in the supplementary material 'cesr_a_689954_sup_27358897.docx'
+of Lindner (2012).
 
 Source (accessed 06.12.2022):
 https://www.tandfonline.com/doi/suppl/10.1080/09535314.2012.689954
